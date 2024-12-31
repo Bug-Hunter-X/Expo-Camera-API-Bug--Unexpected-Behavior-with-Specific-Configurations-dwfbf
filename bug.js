@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Camera` API with specific configurations, causing unexpected behavior or crashes.  The issue stems from incorrect handling of permissions or camera settings, particularly when dealing with flash modes, aspect ratios, or camera types.
